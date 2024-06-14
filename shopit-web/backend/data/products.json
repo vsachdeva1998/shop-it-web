@@ -1,0 +1,32 @@
+[
+    {
+        "name":"SanDisk Ultra 128Gb SDXC UHS-I Memory Card up to 80MB/s",
+        "price":"45.89",
+        "description":"he SanDisk Ultra microSD UHS-I card gives you the freedom to shoot, save and share more than ever before. It is perfect for recording and watching Full HD video,(2) with room for even more hours of video. Transfer speeds of up to 120MB/s** help you move all your content blazingly fast—up to 1000 photos in just one minute.(4) Ideal for Android-based smartphones and tablets, this card’s A1 rating means that you can load apps faster too.(1) And, with up to 1TB* capacity, this card lets you capture and store more than ever before.",
+        "rating":4.5,
+        "images":[{
+            "public_id": "Products/cfe688d3-a106-46da-803a-587f4f41d8a5.__CR0_0_3000_3000_PT0_SX300_V1____noxsqv.jpg",
+            "url":"https://res.cloudinary.com/vinaysachdeva/image/upload/v1644490440/Products/cfe688d3-a106-46da-803a-587f4f41d8a5.__CR0_0_3000_3000_PT0_SX300_V1____noxsqv.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+    },
+    {
+        "name":"CHARMOUNT Full Motion TV Wall Mount Swivel" ,
+        "price": 26.99,
+        "description":"Premium Built Quality This TV mounting bracket is built with heavy duty material, which offer superior built quality & making it really durable with a long lasting life. Dual arm construction for added safety & more strength. This professional wall bracket adopts high grade material with powder coated finishing to offer a strong & durable built along with sleek high-tech look. Heavy-duty construction which helps the mount from not bending once properly installed & tightened Universal Design Universal design which suits TV's from 23 to 42 inches from all brands. Specially designed for LED TV's. Now move your - LED,4K,Plasma,OLED TV the way you want with this heavy duty TV wall mount Compatibility Compatible with all leading brands, Indian & imported like Samsung, Mi, LG, Sony, Micromax, Hier, Mitashi, Hitachi, Videocon, Phillips, Onida. Designed & built considering the delicacy of LED/4K/PLASMA Tvs. Ideal for Television installations at Homes, Office's, Cafe's, Mall's, Restaurant's, Hotel's, Factories, School's, Conference Room's, Clinic's, Hospital's & more VESA Compatibility 100x100m (4”x4”), 150x150mm (6”x6”), 200x200mm (8”x8”), 200X100mm (8”x4”), 150x200mm (6”x8”) Viewing Flexibility To Get Rid Of That Glare Offering complete viewing flexibility - 15° Up to down & 180° left to right full rotation. Swirl your TV left to right to get the desired viewing angle & suitability. Can be fixed to any corner on the wall . Tilt the screen forward to eliminate glare from lights and windows, or tilt it back up for extra glare when those depressing dog commercials come on. Can be fixed to any corner on the wall .",
+        "rating":3.5,
+        "images":[{
+            "public_id":"Products/81de031c-6825-4e49-b14a-1b0c7e045be5.__CR0_99_1499_927_PT0_SX970_V1____afyxse.jpg",
+            "url":"https://res.cloudinary.com/vinaysachdeva/image/upload/v1644490785/Products/81de031c-6825-4e49-b14a-1b0c7e045be5.__CR0_99_1499_927_PT0_SX970_V1____afyxse.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Amazone",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    }
+]
